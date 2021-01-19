@@ -21,5 +21,7 @@ Check <!-- website starts -->
 
 
 ---
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-longhitano/) ![Profile Views](https://gpvc.arturio.dev/andrealonghitano)<a href=""><img src="https://github.com/andrealonghitano/andrealonghitano/workflows/Readme%20File/badge.svg" align="right" alt="Build README"></a>
+[![Linkedin Badge](https://img.shields.io/badge/andrealonghitano-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrealonghitano/)](https://www.linkedin.com/in/andrealonghitano/)
+[![Gmail Badge](https://img.shields.io/badge/andrealonghitano96@gmail.com-c14438?style=plastic?&logo=Gmail&logoColor=white&link=mailto:andrealonghitano96@gmail.com)](mailto:andrealonghitano96@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=plastic?&logo=Facebook&logoColor=white&link=https://www.facebook.com/andrea.c.longhitano)](https://www.facebook.com/andrea.c.longhitano)
+![Profile Views](https://gpvc.arturio.dev/andrealonghitano)<img src="https://github.com/andrealonghitano/andrealonghitano/workflows/Readme%20File/badge.svg" align="right" alt="Build README">
