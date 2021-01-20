@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Andrea Longhitano
 
-Currently I'm  working in [B.i.p](https://www.bipconsulting.com/) as a Data Scientist Intern, where I'm developing my master thesis.
+Currently I'm  working in [B.i.P](https://www.bipconsulting.com/) as a Data Scientist Intern, where I'm developing my master thesis.
 
 
 
@@ -14,10 +14,52 @@ Currently I'm  working in [B.i.p](https://www.bipconsulting.com/) as a Data Scie
 * [ ANN Internal Competition ](https://github.com/AndreaLonghitano) - Three Kaggle competitions developed using Tensorflow and Google Colab as environment.The tasks were: Image Classification,Image Segmentation,Visual Question Answering.
 <!-- projects ends -->
 
+### 📫 How to reach me
 
-Check <!-- website starts -->
+Please, check <!-- website starts -->
 [my website](https://andrealonghitano.github.io/online-cv/)
-<!-- website ends -->
+<!-- website ends --> 
+
+<br/><br/>
+
+### 🎧 Spotify Playing 
+
+<table>
+  <thead>
+    <tr>
+      <th style='text-align:center'>Now Playing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://natemoo-re.andrealonghitano.vercel.app/now-playing?open">
+    <img src="https://natemoo-re.andrealonghitano.vercel.app/now-playing" width="540" height="64" alt="Now Playing"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align:center'>Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://natemoo-re.andrealonghitano.vercel.app/top-tracks?i=1&open"><img src="https://natemoo-re.andrealonghitano.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://natemoo-re.andrealonghitano.vercel.app/top-tracks?i=2&open"><img src="https://natemoo-re.andrealonghitano.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://natemoo-re.andrealonghitano.vercel.app/top-tracks?i=3&open"><img src="https://natemoo-re.andrealonghitano.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ---
@@ -25,3 +67,6 @@ Check <!-- website starts -->
 [![Gmail Badge](https://img.shields.io/badge/andrealonghitano96@gmail.com-c14438?style=plastic?&logo=Gmail&logoColor=white&link=mailto:andrealonghitano96@gmail.com)](mailto:andrealonghitano96@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=plastic?&logo=Facebook&logoColor=white&link=https://www.facebook.com/andrea.c.longhitano)](https://www.facebook.com/andrea.c.longhitano)
 ![Profile Views](https://gpvc.arturio.dev/andrealonghitano)<img src="https://github.com/andrealonghitano/andrealonghitano/workflows/Readme%20File/badge.svg" align="right" alt="Build README">
+
+
+
