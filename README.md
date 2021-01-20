@@ -17,8 +17,7 @@ Currently I'm  working in [B.i.P](https://www.bipconsulting.com/) as a Data Scie
 ### 📫 How to reach me
 
 Please, check <!-- website starts -->
-[my website](https://andrealonghitano.github.io/online-cv/)
-<!-- website ends --> 
+[my website](https://andrealonghitano.github.io/online-cv/)<!-- website ends --> where you can find all the information needed to reach me.
 
 <br/><br/>
 
