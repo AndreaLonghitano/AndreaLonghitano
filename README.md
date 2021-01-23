@@ -12,6 +12,7 @@ Currently I'm  working in [B.i.P](https://www.bipconsulting.com/) as a Data Scie
 * [ Safe Streets ](https://github.com/AndreaLonghitano) - RASD, DD and Alloy modelling of a crowd-sourced application that provides user with the possibiltiy to notify an authority when a parking violation occurs.
 * [ Analysis of CoronaVirus Tweets ](https://github.com/AndreaLonghitano) - The project aims to analyze tweets related to COVID-19, saved on an Elasticsearch cluster, in order to extract statistics and insights
 * [ ANN Internal Competition ](https://github.com/AndreaLonghitano) - Three Kaggle competitions developed using Tensorflow and Google Colab as environment.The tasks were: Image Classification,Image Segmentation,Visual Question Answering.
+* [ TextEditorPyQt5 ](https://github.com/AndreaLonghitano/TextEditorPyQt) - Very simple editor written in PyQt in order to learn this wonderful library
 <!-- projects ends -->
 
 ### 📫 How to reach me
