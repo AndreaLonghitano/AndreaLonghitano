@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Andrea Longhitano
 
-Currently I'm  working in [B.i.P](https://www.bipconsulting.com/) as a Data Scientist Intern, where I'm developing my master thesis.
+Currently I'm  working in [B.i.P](https://www.bipconsulting.com/) as a Data Scientist Intern.
 
 
 
