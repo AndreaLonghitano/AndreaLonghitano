@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Andrea Longhitano
 
-Currently I'm  working in [B.i.P](https://www.bipconsulting.com/) as a Data Scientist Intern.
+Currently I'm  working in [Sopra Steria S.p.a](https://www.soprasteria.com/) as a Python Developer.
 
 
 
